@@ -8,10 +8,10 @@ PYTHON(pandas, scikit-learn, matplotlib, numpy, tensorflow)
 1. Kaggle Bike sharing demand/Titanic
 2. Google Cloud study jam
 (Bigquery, google data studio, etc)
+3. Google cloud Hackathon
+project: Smart Stackoverflow
+(using stackoverflow dataset to visualize user data and predict the answering time with ML)
 
-3.Google cloud Hackathon
-project:smart stackoverflow
-(using stackoverflow dataset to visualize data and get the answering time with ML)
 
 # Finding-the-best-Sillicon-Vally-HBO-seasons
 using IMDb rate, rotten tomatoes and viewers statistic to find the best episode and seasons
