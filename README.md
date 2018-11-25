@@ -10,7 +10,7 @@ PROCESS
 3. scraping the viewers in TVSeriesFinale
 /*since the website made it hard to scraping, I just decided to put it in csv file with other data.It would be much less time consuming*/
 4. making the data into table format
-5. saving the data in MySQL& Google Bigquery
+5. saving the data using MySQL& Google Bigquery
 6. data visualization with Google Data Studio
 
 This project is inspired by http://rikunert.com/2017/05/18/star-trek-movies-ratings/
