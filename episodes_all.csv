@@ -1,0 +1,47 @@
+id,Season,Episode_Name,IMDb_rate,viewers
+0,1,Minimum Viable Product,7.8,1.981
+1,1,The Cap Table,7.9,1.687
+2,1,Articles of Incorporation,8.2,1.622
+3,1,Fiduciary Duties,7.8,1.557
+4,1,Signaling Risk,8.4,1.816
+5,1,Third Party Insourcing,8.5,1.687
+6,1,Proof of Concept,8.6,1.685
+7,1,Optimal Tip-To-Tip Efficiency,9.4,1.742
+8,2,Sand Hill Shuffle,7.8,2.126
+9,2,Runaway Devaluation,7.9,1.733
+10,2,Bad Money,8.2,1.938
+11,2,The Lady,7.8,1.752
+12,2,Server Space,8.4,1.53
+13,2,Homicide,8.5,1.535
+14,2,Adult Content,8.6,1.6
+15,2,White Hat/Black Hat,9.4,1.783
+16,2,Binding Arbitration,7.8,1.866
+17,2,Two Days of the Condor,7.9,2.106
+18,3,Founder Friendly,8.2,1.863
+19,3,Two in the Box,7.8,1.721
+20,3,Meinertzhagen's Haversack,8.4,1.687
+21,3,Maleant Data Systems Solutions,8.5,1.887
+22,3,The Empty Chair,8.6,1.712
+23,3,Bachmanity Insanity,9.4,1.619
+24,3,To Build a Better Beta,7.8,1.696
+25,3,Bachman's Earning's Over-Ride,7.9,1.635
+26,3,Daily Active Users,8.2,1.628
+27,3,The Uptick,7.8,2.043
+28,4,Success Failure,8.4,0.867
+29,4,Terms of Service,8.5,0.762
+30,4,Intellectual Property,8.6,0.774
+31,4,Teambuilding Exercise,9.4,0.859
+32,4,The Blood Boy,7.8,0.844
+33,4,Customer Service,7.9,0.728
+34,4,The Patent Troll,8.2,0.862
+35,4,The Keenan Vortex,7.8,0.798
+36,4,Hooli-Con,8.4,0.84
+37,4,Server Error,8.5,0.79
+38,5,Grow Fast or Die Slow,8.6,0.698
+39,5,Reorientation,9.4,0.592
+40,5,Chief Operating Officer,7.8,0.624
+41,5,Tech Evangelist,7.9,0.61
+42,5,Facial Recognition,8.2,0.858
+43,5,Artificial Emotional Intelligence,7.8,1.018
+44,5,Initial Coin Offering,8.4,0.853
+45,5,Fifty-One Percent,8.5,0.707
