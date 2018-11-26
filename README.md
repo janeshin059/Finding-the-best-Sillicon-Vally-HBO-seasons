@@ -7,6 +7,7 @@ of Sillicon Vally(TV show, HBO)
 
 #### 1. scraping IMDb rate from the web to get rate for each episode and seasons
 ```
+python
 import pandas as pd #for data array handling
 from bs4 import BeautifulSoup as soup
 # for website parsing and scraping (rotten tomatoes)
@@ -22,7 +23,9 @@ f2=open(filename2, "w")
 
 from pandas import Series,DataFrame
 ```
-```j=1
+```
+python
+j=1
 a=0
 b=0
 k=0
@@ -71,6 +74,7 @@ for i in range(1,6):
 #### 2. scraping TOMATOMETER from the rottentomatoes.com to get rate for each easons
 
 ```
+python
 my_url = 'https://www.rottentomatoes.com/tv/silicon_valley'
 uClient = uReq(my_url) #opening the connection, downloading the webpage
 page_html = uClient.read()
@@ -98,6 +102,7 @@ then i copied the viewer numbers and made it to seperate csv files.(viewers.csv 
 then concatenate it with episodes.csv and seasons.csv
 
 ```
+python
 df_v = pd.read_csv("viewers.csv",names=["viewers"])
 df_va = pd.read_csv("viewers_avg.csv",names=["viewers_season_avg"])
 df_ev = pd.concat([ df_e,df_v],axis=1)
