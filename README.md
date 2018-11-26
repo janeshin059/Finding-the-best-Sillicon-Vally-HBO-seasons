@@ -176,6 +176,7 @@ but since Game of Thrones was delayed they can only watch one TV show.
 #### references & used websites
 
 This project is inspired by http://rikunert.com/2017/05/18/star-trek-movies-ratings/
+
 HERE are the list of websites that i used:
 
 https://www.imdb.com/title/tt2575988/episodes?season=5
