@@ -3,9 +3,9 @@
 using IMDb rate, rotten tomatoes and viewers statistic to find the best episode and seasons &trends
 of Sillicon Vally(TV show, HBO)
 
-###PROCESS
+### PROCESS
 
-####1. scraping IMDb rate from the web to get rate for each episode and seasons
+#### 1. scraping IMDb rate from the web to get rate for each episode and seasons
 ```
 import pandas as pd #for data array handling
 from bs4 import BeautifulSoup as soup
@@ -68,7 +68,7 @@ for i in range(1,6):
                 
 ```
 
-####2. scraping TOMATOMETER from the rottentomatoes.com to get rate for each easons
+#### 2. scraping TOMATOMETER from the rottentomatoes.com to get rate for each easons
 
 ```
 my_url = 'https://www.rottentomatoes.com/tv/silicon_valley'
@@ -87,7 +87,7 @@ for Tomatometers in tomatometer:
     df_s = df_s.append( {"Tomatometers":TM},ignore_index=True)
     df_s["Tomatometers"][i-1] = TM
 ```
-####3. scraping the viewers in TVSeriesFinale
+#### 3. scraping the viewers in TVSeriesFinale
 
 
 I tried to scrape the website, but the website made it hard to scraping.
@@ -112,8 +112,8 @@ f2.close()
 f.close()
 ```
 
-####4. making the data into table format
-####5. saving the data using MySQL& Google BigQuery
+#### 4. making the data into table format
+#### 5. saving the data using MySQL& Google BigQuery
 
 the data can be saved in both ways, but in here I used BigQuery
 (the mySQL query is in separate file: SV.txt)
@@ -122,10 +122,10 @@ the data can be saved in both ways, but in here I used BigQuery
 how to make table in BigQuery: https://cloud.google.com/bigquery/docs/tables
 
 
-####6. data visualization with Google Data Studio
+#### 6. data visualization with Google Data Studio
 
 
-####outcome
+#### outcome
 
 
 
