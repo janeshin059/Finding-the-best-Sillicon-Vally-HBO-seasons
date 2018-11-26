@@ -133,8 +133,8 @@ how to make table in BigQuery: https://cloud.google.com/bigquery/docs/tables
 <img width="539" alt="a" src="https://user-images.githubusercontent.com/41497195/48993955-0b28cb00-f184-11e8-8579-755a65619459.PNG">
 <img width="319" alt="b" src="https://user-images.githubusercontent.com/41497195/48993961-0f54e880-f184-11e8-8347-a9693a03d26a.PNG">
 <img width="502" alt="c" src="https://user-images.githubusercontent.com/41497195/48993968-13810600-f184-11e8-8737-8890b8d8c15d.PNG">
-
-
+<img width="502" alt="d" src="https://user-images.githubusercontent.com/41497195/48994044-72df1600-f184-11e8-9718-5bf3e7c60832.PNG">
+<img width="501" alt="e" src="https://user-images.githubusercontent.com/41497195/48993966-13810600-f184-11e8-980b-2730ff44334d.PNG">
 
 
 
@@ -143,15 +143,37 @@ how to make table in BigQuery: https://cloud.google.com/bigquery/docs/tables
 the IMDb rate and rotten tomatoes rate were not that dramatically dropped in season 4. 
 the viewer number of the first episode of season 4 is already sharply dropped.
 
+<img width="461" alt="exc" src="https://user-images.githubusercontent.com/41497195/48993971-18de5080-f184-11e8-953f-bb250384b605.PNG">
+
+if the show has problems in its storyline, viewers would have been gradually reduced while the season 4 is going on.
+
+
+Also,there were no problems or huge differences at the cast of Sillicon Vally season 4.
+
+So, we can know that the problem of sharply dropped viewers was
+NOT from the inside of the show.
+we have to find the problems in the OUTSIDE.
+
+
+#### 'Sunday cable ratings: ‘Silicon Valley’ suffers without ‘Game of Thrones’ as lead-in'
+
+from: <https://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-april-23-2017/> 
+
+https://www.reddit.com/r/television/comments/6brdgv/silicon_valleys_live_ratings_have_taken_quite_a/
+
+
+- in America, if we want to watch a broadcast then we should pay for that specific channel. 
+in Sillicon Vally season 1~3, 'Game of Thrones', which is very popular TV show in HBO, aired in the same period with Sillicon Vally
+
+
+-but in Season 4, Game of Thrones has delayed its air schedule.
+-So people doesn't want to pay $15 for watching only Sillicon Vally.
+before, with the same amount of money they can watch two popular TV shows.
+but since Game of Thrones was delayed they can only watch one TV show.
 
 
 
-
-
-
-
-
-
+#### references & used websites
 
 This project is inspired by http://rikunert.com/2017/05/18/star-trek-movies-ratings/
 HERE are the list of websites that i used:
