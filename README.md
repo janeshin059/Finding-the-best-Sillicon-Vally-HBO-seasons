@@ -131,6 +131,17 @@ how to make table in BigQuery: https://cloud.google.com/bigquery/docs/tables
 
 #### outcome
 
+<img width="416" alt="22" src="https://user-images.githubusercontent.com/41497195/48993567-bd12c800-f181-11e8-8dee-0f9e593dbc28.PNG">
+
+<img width="427" alt="33" src="https://user-images.githubusercontent.com/41497195/48993568-bdab5e80-f181-11e8-9f1c-2c27c5704193.PNG">
+
+<img width="422" alt="11" src="https://user-images.githubusercontent.com/41497195/48993569-bdab5e80-f181-11e8-9080-b7f7db7b7158.PNG">
+
+
+##### why viewers were dramatically dropped in season 4?
+
+the IMDb rate and rotten tomatoes rate were not that dramatically dropped in season 4. 
+the viewer number of the first episode of season 4 is already sharply dropped.
 
 
 
