@@ -69,6 +69,8 @@ for i in range(1,6):
                 
 ```
 
+after made the csv file, I revised it a little bit to make it easy for uploading it to BigQuery.
+
 #### 2. scraping TOMATOMETER from the rottentomatoes.com to get rate for each easons
 
 ```python
@@ -166,10 +168,10 @@ https://www.reddit.com/r/television/comments/6brdgv/silicon_valleys_live_ratings
 in Sillicon Vally season 1~3, 'Game of Thrones', which is very popular TV show in HBO, aired in the same period with Sillicon Vally
 
 
--but in Season 4, Game of Thrones has delayed its air schedule.
+-But in Season 4, Game of Thrones has delayed its air schedule.
 -So people doesn't want to pay $15 for watching only Sillicon Vally.
-before, with the same amount of money they can watch two popular TV shows.
-but since Game of Thrones was delayed they can only watch one TV show- so they didn't paid for the channel.
+Before, with the same amount of money they can watch two popular TV shows.
+But since Game of Thrones was delayed they can only watch one TV show- so they didn't paid for the channel.
 
 
 
