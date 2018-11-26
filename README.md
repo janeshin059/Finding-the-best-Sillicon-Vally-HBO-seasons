@@ -125,6 +125,9 @@ how to make table in BigQuery: https://cloud.google.com/bigquery/docs/tables
 
 #### 6. data visualization with Google Data Studio
 
+<img width="960" alt="bigd" src="https://user-images.githubusercontent.com/41497195/48993550-a2d8ea00-f181-11e8-9afc-d538ab232244.PNG">
+
+
 
 #### outcome
 
