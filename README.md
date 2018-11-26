@@ -169,7 +169,7 @@ in Sillicon Vally season 1~3, 'Game of Thrones', which is very popular TV show i
 -but in Season 4, Game of Thrones has delayed its air schedule.
 -So people doesn't want to pay $15 for watching only Sillicon Vally.
 before, with the same amount of money they can watch two popular TV shows.
-but since Game of Thrones was delayed they can only watch one TV show.
+but since Game of Thrones was delayed they can only watch one TV show- so they didn't paid for the channel.
 
 
 
