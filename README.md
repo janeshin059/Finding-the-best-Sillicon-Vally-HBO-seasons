@@ -130,6 +130,11 @@ how to make table in BigQuery: https://cloud.google.com/bigquery/docs/tables
 
 
 #### outcome
+<img width="539" alt="a" src="https://user-images.githubusercontent.com/41497195/48993955-0b28cb00-f184-11e8-8579-755a65619459.PNG">
+<img width="319" alt="b" src="https://user-images.githubusercontent.com/41497195/48993961-0f54e880-f184-11e8-8347-a9693a03d26a.PNG">
+<img width="502" alt="c" src="https://user-images.githubusercontent.com/41497195/48993968-13810600-f184-11e8-8737-8890b8d8c15d.PNG">
+
+
 
 
 
