@@ -1,0 +1,33 @@
+create table episodes(
+   ->id INT NOT NULL AUTO_INCREMENT,
+    -> Season INT NOT NULL,
+    -> Episode_Name VARCHAR(200) NOT NULL,
+    -> IMDb_rate DECIMAL(5,2) NULL,
+    -> viewers_mil DECIMAL(5,3) NULL,
+    -> PRIMARY KEY(id));
+
+ LOAD DATA LOCAL INFILE 'C:/Users/user/find the best Sillicon Vally(HBO) seasons/episodes_all.csv'
+    -> INTO TABLE episodes
+    -> FIELDS TERMINATED BY ','
+    -> ENCLOSED BY '"'
+    -> LINES TERMINATED BY '\n'
+    -> IGNORE 1 ROWS;
+
+
+create table seasons(
+     id INT NOT NULL,
+     Season INT NOT NULL,
+   IMDb_season_avg DECIMAL(5,3) NULL,
+     Tomatometers VARCHAR(100) NULL,
+    viewers_season_avg DECIMAL(5,3) NULL,
+     PRIMARY KEY(id));
+
+ LOAD DATA LOCAL INFILE 'C:/Users/user/find the best Sillicon Vally(HBO) seasons/seasons_all.csv'
+    INTO TABLE seasons
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+   LINES TERMINATED BY '\n'
+     IGNORE 1 ROWS;
+
+SELECT *FROM SEASONS;
+
