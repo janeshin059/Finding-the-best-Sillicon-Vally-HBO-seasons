@@ -1,7 +1,7 @@
 
-# Finding-the-best-Sillicon-Vally-HBO-seasons
+# Finding-the-best-Sillicon-Valley-HBO-seasons
 using IMDb rate, rotten tomatoes and viewers statistic to find the best episode and seasons &trends
-of Sillicon Vally(TV show, HBO)
+of Sillicon Valley(TV show, HBO)
 
 ### PROCESS
 
